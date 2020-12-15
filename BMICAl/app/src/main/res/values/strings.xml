@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BMI计算器</string>
+    <string name="app_name_bmiinfo">结果</string>
+    <string name="editText_height">请输入你的身高(CM)</string>
+    <string name="editText_weight">请输入你的体重(KG)</string>
+    <string name="toast_info">值异常！请重新输入</string>
+</resources>
